@@ -1,4 +1,4 @@
-# cek pembayaran
+# Cek Pembayaran
 
 Send SMS from Target Device to your Telegram
 https://smj.ltd/SMStoTelegram
